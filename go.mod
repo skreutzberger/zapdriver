@@ -1,4 +1,4 @@
-module go.ajitem.com/zapdriver
+module skreutzberger/zapdriver
 
 go 1.17
 
