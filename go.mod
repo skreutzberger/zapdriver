@@ -1,4 +1,4 @@
-module skreutzberger/zapdriver
+module github.com/skreutzberger/zapdriver
 
 go 1.17
 
